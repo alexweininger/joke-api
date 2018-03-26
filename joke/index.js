@@ -3,6 +3,7 @@ module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
     if (req.query.joketype || (req.body && req.body.joketype)) {
+        context.log('joketype=' + req.query.joketype)
         var jokesOfType = [];
         for (joke in jokes) {
             if (joke.type == req.query.joketype) {
