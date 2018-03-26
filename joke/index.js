@@ -3,12 +3,10 @@ module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
     if (req.query.joketype || (req.body && req.body.joketype)) {
-        context.log('joketype=' + req.query.joketype)
         var jokesOfType = [];
-        for (joke in jokes) {
+        for (joke of jokes) {
             if (joke.type == req.query.joketype) {
                 jokesOfType.push(joke);
-                context.log('joke');
             }
         }
         let random_index = Math.floor(Math.random() * jokesOfType.length);
