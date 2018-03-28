@@ -15,7 +15,7 @@ returns
   "id": 56,
   "type": "programming",
   "setup": "How do you check if a webpage is HTML5?",
-  "punchline": "Try it out on Internet Explorer" 
+  "punchline": "Try it out on Internet Explorer"
 }
 ```
 
@@ -48,14 +48,8 @@ coming soon
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details
 
 ## Acknowledgments
 
 * Inspired by [this repository](https://github.com/15Dkatz/official_joke_api).
-
-
-
-
-
-
