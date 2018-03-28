@@ -2,7 +2,27 @@
 
 An API for jokes!  This API is primarily for getting a random joke from a growing list of jokes hosted here.  The API uses Azure functions.  Got funny jokes?  See how to submit your jokes down below!
 
-## Getting Started, prereqs
+## API Endpoints
+
+### Get a random joke
+
+[https:/joke-api/azurewebsites.net/api/joke/](https:/joke-api/azurewebsites.net/api/joke/)
+
+returns
+
+```javascript
+{
+  "id": 56,
+  "type": "programming",
+  "setup": "How do you check if a webpage is HTML5?",
+  "punchline": "Try it out on Internet Explorer" 
+}
+```
+
+### Get a random joke of a specific type
+
+[https:/joke-api/azurewebsites.net/api/joke/?joketype=type](https:/joke-api/azurewebsites.net/api/joke/?joketype=type)
+types of jokes: general, programming, knock-knock (feel free to add jokes outside of these types)
 
 ## Contributing a joke
 
@@ -19,11 +39,12 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Be sur
 
 ## Built With
 
-* [Azure](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Node.js](https://maven.apache.org/) - Dependency Management
+* [Azure functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Cloud service, highly recommended
+* [Node.js](https://nodejs.org/en/docs/) - Serverside scripting (in Azure)
 
-## Contributing
+## Installing
 
+coming soon
 
 ## License
 
@@ -32,3 +53,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspired by [this repository](https://github.com/15Dkatz/official_joke_api).
+
+
+
+
+
+
