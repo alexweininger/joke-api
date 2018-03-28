@@ -48,11 +48,7 @@ coming soon
 
 ## License
 
-<<<<<<< HEAD
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
-=======
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/alexweininger/joke-api/blob/master/LICENSE) file for details
->>>>>>> 67d24df3a31d2ccf1595f18df7ed7aa0973681fc
 
 ## Acknowledgments
 
