@@ -53,3 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgments
 
 * Inspired by [this repository](https://github.com/15Dkatz/official_joke_api).
+* jokes gathered from all around the web
