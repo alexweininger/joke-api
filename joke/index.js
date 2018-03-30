@@ -1,4 +1,5 @@
 var jokes = require('../jokes/index.json');
+
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
     context.log(req.query);
@@ -31,9 +32,9 @@ function getType(type, jokes) {
     return jokeArray;
 }
 
-function getJokeById(id, jokes){
-    for(let joke of jokes){
-        if(joke.id === id){
+function getJokeById(id, jokes) {
+    for (let joke of jokes) {
+        if (joke.id === id) {
             return joke;
         }
     }
