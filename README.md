@@ -21,7 +21,7 @@ returns
 
 ### Get a random joke of a specific type
 
-[https:/joke-api/azurewebsites.net/api/joke/?joketype=type](https:/joke-api/azurewebsites.net/api/joke/?joketype=type)
+<https:/joke-api/azurewebsites.net/api/joke/?joketype=type>
 types of jokes: general, programming, knock-knock (feel free to add jokes outside of these types)
 
 ## Contributing a joke
@@ -37,6 +37,18 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Be sur
 }
 ```
 
+### Saying hello
+
+As a super simple example, this function simple appends returns `Hello + name`.
+
+<https://joke-api.azurewebsites.net/api/hello/?name=Alex>
+
+returns
+
+```text
+Hello Alex
+```
+
 ## Built With
 
 * [Azure functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Cloud service, highly recommended
@@ -46,11 +58,11 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Be sur
 
 coming soon
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/alexweininger/joke-api/blob/master/LICENSE) file for details
-
 ## Acknowledgments
 
 * Inspired by [this repository](https://github.com/15Dkatz/official_joke_api).
 * jokes gathered from all around the web
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/alexweininger/joke-api/blob/master/LICENSE) file for details

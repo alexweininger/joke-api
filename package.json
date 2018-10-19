@@ -1,0 +1,19 @@
+{
+  "name": "joke-api",
+  "version": "1.0.0",
+  "description": "random jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexweininger/joke-api.git"
+  },
+  "author": "Alex Weininger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexweininger/joke-api/issues"
+  },
+  "homepage": "https://github.com/alexweininger/joke-api#readme"
+}
