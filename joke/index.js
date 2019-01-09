@@ -1,4 +1,4 @@
-var jokes = require('../jokes/index.json');
+let jokes = require('../jokes/index.json');
 
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');

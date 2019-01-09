@@ -1,8 +1,7 @@
 var jokes = require('../jokes/index.json');
-
 module.exports = function (context, req) {
+    'use strict';
     context.log('JavaScript HTTP trigger function processed a request.');
-
     if (req.query.name || (req.body && req.body.name)) {
         context.res = {
             // status: 200, /* Defaults to 200 */

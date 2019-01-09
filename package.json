@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexweininger/joke-api/issues"
   },
-  "homepage": "https://github.com/alexweininger/joke-api#readme"
+  "homepage": "https://github.com/alexweininger/joke-api#readme",
+  "dependencies": {
+    "azure-cli": "^0.10.20"
+  }
 }
