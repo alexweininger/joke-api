@@ -6,7 +6,7 @@ An API for jokes!  This API is primarily for getting a random joke from a growin
 
 ### Get a random joke
 
-[https:/joke-api/azurewebsites.net/api/joke/](https:/joke-api/azurewebsites.net/api/joke/)
+[https://joke-api/azurewebsites.net/api/joke/](https:/joke-api/azurewebsites.net/api/joke/)
 
 returns
 
@@ -21,7 +21,7 @@ returns
 
 ### Get a random joke of a specific type
 
-<https:/joke-api/azurewebsites.net/api/joke/?joketype=type>
+<https://joke-api/azurewebsites.net/api/joke/?joketype=type>
 types of jokes: general, programming, knock-knock (feel free to add jokes outside of these types)
 
 ## Contributing a joke
