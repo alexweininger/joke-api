@@ -7,7 +7,7 @@
       "direction": "in",
       "name": "req",
       "methods": ["get"],
-      "route": "helloworld"
+      "route": "sayhi"
     },
     {
       "type": "http",
