@@ -188,7 +188,7 @@
     "id": 32,
     "type": "general",
     "setup": "did you know the first French fries weren't cooked in France?",
-    "punchline": "they were cooked in Greece"
+    "punchline": "They were cooked in Greece"
   },
   {
     "id": 33,
@@ -344,6 +344,132 @@
     "id": 58,
     "type": "general",
     "setup": "Einstein finally formulated a theory on space.",
-    "punchline": "And it was about time too."
+    "punchline": "And it was about time too"
+  },
+  {
+    "id": 59,
+    "type": "general",
+    "setup": "My wife told me to stop acting like a flamingo.",
+    "punchline": "I had to put my foot down"
+  },
+  {
+    "id": 60,
+    "type": "general",
+    "setup": "I bought the world’s worst thesaurus today. Not only was it terrible...",
+    "punchline": "it was also terrible"
+  },
+  {
+    "id": 61,
+    "type": "general",
+    "setup": "What do you do when your hot pants catch on fire?",
+    "punchline": "Put them out with your pantyhose"
+  },
+  {
+    "id": 62,
+    "type": "general",
+    "setup": "What do you call a sad cup of coffee?",
+    "punchline": "Depresso"
+  },
+  {
+    "id": 63,
+    "type": "general",
+    "setup": "Why don’t chickens wear underwear?",
+    "punchline": "Because their pecker is on their face"
+  },
+  {
+    "id": 64,
+    "type": "general",
+    "setup": "What do you get when you cross a joke with a rhetorical question?",
+    "punchline": ""
+  },
+  {
+    "id": 65,
+    "type": "general",
+    "setup": "What did one nut say when it was chasing the other nut?",
+    "punchline": "I'm a cashew"
+  },
+  {
+    "id": 66,
+    "type": "general",
+    "setup": "What was E.T short for?",
+    "punchline": "Because he had little legs"
+  },
+  {
+    "id": 67,
+    "type": "general",
+    "setup": "I have many jokes about unemployed people.",
+    "punchline": "Sadly none of them works"
+  },
+  {
+    "id": 68,
+    "type": "general",
+    "setup": "Why’d the old man fall down the well?",
+    "punchline": "Because he couldn't see that well"
+  },
+  {
+    "id": 69,
+    "type": "general",
+    "setup": "What did the grape say when the elephant sat on it?",
+    "punchline": "Nothing, but it let out a little wine"
+  },
+  {
+    "id": 70,
+    "type": "general",
+    "setup": "Why can’t the pope be cremated?",
+    "punchline": "Because he's alive"
+  },
+  {
+    "id": 71,
+    "type": "general",
+    "setup": "What’s the best thing about Switzerland?",
+    "punchline": "Well the flag’s a big plus"
+  },
+  {
+    "id": 72,
+    "type": "general",
+    "setup": "Why couldn’t the toilet paper cross the road?",
+    "punchline": "Because it got stuck in the crack"
+  },
+  {
+    "id": 73,
+    "type": "general",
+    "setup": "Why can’t boy ghost have babies?",
+    "punchline": "Because they have hallow weenies"
+  },
+  {
+    "id": 74,
+    "type": "general",
+    "setup": "What does a dog eat for breakfast?",
+    "punchline": "Woofles"
+  },
+  {
+    "id": 75,
+    "type": "general",
+    "setup": "Did you hear about the kidnapping at school?",
+    "punchline": "It's okay, he woke up"
+  },
+  {
+    "id": 76,
+    "type": "general",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto"
+  },
+  {
+    "id": 77,
+    "type": "general",
+    "setup": "What do you call a cat that lives in an igloo",
+    "punchline": "An Eskimeow"
+  },
+  {
+    "id": 78,
+    "type": "general",
+    "setup": "Never buy anything velcro.",
+    "punchline": "It's a rip-off"
+  },
+  {
+    "id": 79,
+    "type": "general",
+    "setup": "I was going to make a good chemistry joke...",
+    "punchline": "but all the good ones Argon"
   }
 ]
